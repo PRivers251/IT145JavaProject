@@ -1,0 +1,47 @@
+[
+  {
+    "species": "chimpanzee",
+    "bodyLength": 36.0,
+    "height": 40.0,
+    "tailLength": 30.0,
+    "name": "george",
+    "gender": "male",
+    "age": 2,
+    "weight": 23.0,
+    "acquisitionDate": "8-13-2023",
+    "acquisitionCountry": "republic of congo",
+    "trainingStatus": "intake",
+    "reserved": false,
+    "inServiceCountry": "none"
+  },
+  {
+    "species": "chimpanzee",
+    "bodyLength": 36.0,
+    "height": 40.0,
+    "tailLength": 30.0,
+    "name": "champ",
+    "gender": "male",
+    "age": 2,
+    "weight": 48.0,
+    "acquisitionDate": "8-13-2023",
+    "acquisitionCountry": "republic of congo",
+    "trainingStatus": "intake",
+    "reserved": false,
+    "inServiceCountry": "none"
+  },
+  {
+    "species": "capuchin",
+    "bodyLength": 30.0,
+    "height": 33.0,
+    "tailLength": 24.0,
+    "name": "django",
+    "gender": "male",
+    "age": 1,
+    "weight": 20.0,
+    "acquisitionDate": "8-13-2023",
+    "acquisitionCountry": "niger",
+    "trainingStatus": "intake",
+    "reserved": false,
+    "inServiceCountry": "none"
+  }
+]

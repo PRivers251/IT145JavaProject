@@ -1,0 +1,50 @@
+[
+  {
+    "breed": "chihuahua",
+    "name": "bella",
+    "gender": "female",
+    "age": 4,
+    "weight": 25.6,
+    "acquisitionDate": "12-12-2019",
+    "acquisitionCountry": "canada",
+    "trainingStatus": "in service",
+    "reserved": true,
+    "inServiceCountry": "canada"
+  },
+  {
+    "breed": "german shepherd",
+    "name": "fido",
+    "gender": "male",
+    "age": 3,
+    "weight": 45.0,
+    "acquisitionDate": "08-05-2023",
+    "acquisitionCountry": "united states",
+    "trainingStatus": "intake",
+    "reserved": false,
+    "inServiceCountry": "none"
+  },
+  {
+    "breed": "shnouzer",
+    "name": "barnaby",
+    "gender": "male",
+    "age": 2,
+    "weight": 23.0,
+    "acquisitionDate": "08-12-2023",
+    "acquisitionCountry": "germany",
+    "trainingStatus": "intake",
+    "reserved": true,
+    "inServiceCountry": "none"
+  },
+  {
+    "breed": "golden retriever",
+    "name": "jeremy",
+    "gender": "male",
+    "age": 2,
+    "weight": 34.0,
+    "acquisitionDate": "8-13-2023",
+    "acquisitionCountry": "united states",
+    "trainingStatus": "intake",
+    "reserved": false,
+    "inServiceCountry": "none"
+  }
+]
